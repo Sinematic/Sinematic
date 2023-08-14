@@ -1,6 +1,6 @@
 ## Hi there, I'm Sinematic ! 👋
 
-👨‍💻 Junior JavaScript Developer \
+👨‍💻 JavaScript Developer \
 🚀 Exploring the React cosmos \
 🌐 Building with Node.js & Express \
 📦 Curious about MongoDB & Mongoose \
