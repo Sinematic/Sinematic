@@ -6,6 +6,8 @@
 📦 Curious about MongoDB & Mongoose \
 🌱 Learning the TypeScript alphabet
 
+🥡 Currently working on [CuisineFiesta App](https://github.com/Sinematic/CuisineFiesta-F)
+
 🌟 Open to collaboration and new challenges \
 📚 On a journey of continuous learning \
 🎮 Part-time explorer, full-time coder
