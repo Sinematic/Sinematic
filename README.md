@@ -3,7 +3,7 @@
 👨‍💻 JavaScript Developer \
 🚀 Exploring the React cosmos \
 🌐 Building with Nest.js \
-🌱 Learned the TypeScript alphabet \
+🌱 Learned the TypeScript alphabet 
 
 🥡 Currently working on [Grid Game](https://github.com/Sinematic/game)
 
